@@ -37,6 +37,14 @@
 
 ---
 
+
+## 🏆 Achievements
+
+- 🥇 1st Place — National Marketing & E-Commerce Competition *(Yemen, 2024)*  
+- 🥈 7th Place — SalamHack 2025 *(Muqabalati: AI-Powered Arabic Job Interview Simulator)*
+
+---
+
 ## 💻 Tech Stack
 
 | Category                 | Technologies                                      |
@@ -48,13 +56,6 @@
 | 🧱 Architecture           | N-Tier, 3-Tier, SOLID Principles                  |
 | 🔍 Data & Algorithms      | LINQ, Data Structures, Algorithms                 |
 | 🛠️ Tools & DevOps         | Git, GitHub, Visual Studio                        |
-
----
-
-## 🏆 Achievements
-
-- 🥇 1st Place — National Marketing & E-Commerce Competition *(Yemen, 2024)*  
-- 🥈 7th Place — SalamHack 2025 *(Muqabalati: AI-Powered Arabic Job Interview Simulator)*
 
 ---
 
