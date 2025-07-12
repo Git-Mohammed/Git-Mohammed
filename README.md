@@ -44,11 +44,11 @@
 |--------------------------|---------------------------------------------------|
 | 💻 Languages              | C#, C++                                           |
 | 🔧 Frameworks             | .NET Core, ASP.NET Web API, WinForms             |
-| 🗄️ Databases & ORM       | SQL Server, ADO.NET, Entity Framework             |
+| 🗄️ Databases & ORM         | SQL Server, ADO.NET, Entity Framework             |
 | 🧪 API & Testing          | RESTful API, Swagger, Postman                     |
 | 🧱 Architecture           | N-Tier, 3-Tier, SOLID Principles                  |
 | 🔍 Data & Algorithms      | LINQ, Data Structures, Algorithms                 |
-| 🛠️ Tools & DevOps         | Git, GitHub, Visual Studio, Azure DevOps          |
+| 🛠️ Tools & DevOps         | Git, GitHub, Visual Studio                        |
 
 ---
 
