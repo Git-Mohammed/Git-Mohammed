@@ -5,7 +5,6 @@
 <br/>
 
 <h1>⚙️ Mohammed Saif</h1>
-<h2>.NET Backend Developer</h2>
 
 <p>
   <a href="mailto:mohammedsaif@mail.com">
