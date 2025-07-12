@@ -1,59 +1,96 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Backend+.NET+Developer;Crafting+Scalable+Systems+with+Clean+Code+💡" alt="Typing SVG"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&width=430&lines=Backend+.NET+Developer;Crafting+Scalable+Systems+with+Clean+Code+%F0%9F%92%A1" alt="Typing SVG" />
+
+<br/>
+
+<h1>⚙️ Mohammed Saif</h1>
+<h2>.NET Backend Developer</h2>
+
+<p>
+  <a href="mailto:mohammedsaif@mail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/-mohammedsaif">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev.to/mohammedsaif">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://t.me/xe000">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
   <br/>
+  <img src="https://komarev.com/ghpvc/?username=Git-Mohammed&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Git-Mohammed?label=Follow&style=flat-square&color=blue" alt="GitHub Followers"/>
 
-  # ⚙️ Mohammed Saif  
-  ### 💻 .NET Backend Developer
 </div>
 
 ---
 
-## 📌 About Me
+## 🎯 About Me
 
-I’m **Mohammed Saif**, a backend engineer who builds scalable, maintainable systems with **C#** and the **.NET** stack.  
-I believe in clean architecture, testable code, and APIs that power great user experiences.
+💬 Backend Developer with deep expertise in `.NET`, `C#`, and `SQL Server`. Passionate about crafting clean, scalable systems and robust backend logic.
+
+> "Clean code is a continuous practice—not just a goal, but a foundation for performance and maintainability."  
+🚀 Efficiency • 🌍 Reliability • 🎯 Precision
 
 ---
 
-## 🧰 Skills
+## 💻 Tech Stack
 
-| Category         | Tools & Technologies                         |
-|------------------|-----------------------------------------------|
-| Languages        | C#, T-SQL                                     |
-| Frameworks       | .NET Core, ASP.NET, WinForms                  |
-| Databases & ORM  | SQL Server, ADO.NET, Entity Framework         |
-| API & Testing    | REST, Swagger, Postman                        |
-| Architecture     | OOP, SOLID Principles, 3-Tier, Layered Design |
-| Tools            | Git, GitHub, Visual Studio, Azure DevOps      |
+| Category                 | Technologies                                      |
+|--------------------------|---------------------------------------------------|
+| 💻 Languages              | C#, C++                                           |
+| 🔧 Frameworks             | .NET Core, ASP.NET Web API, WinForms             |
+| 🗄️ Databases & ORM       | SQL Server, ADO.NET, Entity Framework             |
+| 🧪 API & Testing          | RESTful API, Swagger, Postman                     |
+| 🧱 Architecture           | N-Tier, 3-Tier, SOLID Principles                  |
+| 🔍 Data & Algorithms      | LINQ, Data Structures, Algorithms                 |
+| 🛠️ Tools & DevOps         | Git, GitHub, Visual Studio, Azure DevOps          |
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 1st Place — National Marketing & E-Commerce Competition (Yemen, 2024)  
-- 🥈 7th Place — SalamHack 2025 for *Muqabalati*, an AI-driven Arabic interview simulator  
-- 📘 Completed 22/24 advanced courses at Programming Advices  
+- 🥇 1st Place — National Marketing & E-Commerce Competition *(Yemen, 2024)*  
+- 🥈 7th Place — SalamHack 2025 *(Muqabalati: AI-Powered Arabic Job Interview Simulator)*
 
 ---
 
-## 🚀 Projects
+## 💡 Featured Projects
 
-| Project            | Description                                | Tech Stack                         |
-|--------------------|--------------------------------------------|------------------------------------|
-| Muqabalati         | AI-powered Arabic interview simulator      | ASP.NET Core · Google Gemini API   |
-| BookStore Online   | Platform for browsing & purchasing books   | ASP.NET Core · ADO.NET · SQL Server|
-| DVLD System        | Desktop app for license & vehicle registry | .NET Framework · WinForms · SQL    |
+| Project                | Description                                                                                             | Tech Stack                                  |
+|------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| **Muqabalati**         | AI voice-based Arabic job interviews. Gemini API + ASP.NET Core N-Tier.                                | ASP.NET Core · Gemini API                   |
+| **BookStore Online**   | E-commerce platform for book management & purchases.                                                    | ASP.NET Core · SQL Server · ADO.NET         |
+| **DVLD System**        | Desktop app for license/vehicle registration. WinForms + SQL + secure data handling.                    | WinForms · .NET Framework · SQL Server      |
 
 ---
 
-## 📫 Let’s Connect
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/-mohammedsaif" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Git-Mohammed&show_icons=true&theme=blue-green&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Mohammed&layout=compact&theme=blue-green&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
+
+## 📁 My Portfolio & CV
+
+<p align="center">
+  <a href="https://github.com/Git-Mohammed">
+    <img src="https://img.shields.io/badge/GitHub%20Portfolio-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub Portfolio" />
   </a>
-  <a href="https://dev.to/mohammedsaif" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  <a href="mailto:mohammedsaif@mail.com">
+    <img src="https://img.shields.io/badge/Request%20CV-via%20Email-blue?style=flat-square&logo=gmail" alt="CV Request" />
   </a>
 </p>
+
+---
+
+<div align="center">
+✨ *“Backend is the heartbeat of every great application—make sure it’s clean, scalable, and resilient.”* ✨
+</div>
