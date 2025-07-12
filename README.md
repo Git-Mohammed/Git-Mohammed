@@ -59,10 +59,19 @@ Whether it's AI-powered job interview simulations or smart desktop systems, I tr
 
 ## 📫 Let’s Connect
 
-🌍 **Location**: Taiz, Yemen  
-📧 **Email**: [mohammedsaif@mail.com](mailto:mohammedsaif@mail.com)  
-🐙 **GitHub**: [@Git-Mohammed](https://github.com/Git-Mohammed)  
-💬 **Telegram**: [@-mohammedsaif](https://t.me/-mohammedsaif)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/-mohammedsaif" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<a href="https://dev.to/mohammedsaif" target="_blank">
+  <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
+</a>
+
+
+</div>
+
 
 ---
 
