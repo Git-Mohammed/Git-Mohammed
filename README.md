@@ -62,13 +62,11 @@ Whether it's AI-powered job interview simulations or smart desktop systems, I tr
 <div align="center">
 
 <a href="https://www.linkedin.com/in/-mohammedsaif" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a href="https://dev.to/mohammedsaif" target="_blank">
-  <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"/>
 </a>
-
 
 </div>
 
