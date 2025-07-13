@@ -41,10 +41,8 @@
 
 ## 🏆 Achievements
 
-- 🥇 1st Place — National Marketing & E-Commerce Competition *(Yemen, 2024)*  
-- 🥈 7th Place — SalamHack 2025 *(Muqabalati: AI-Powered Arabic Job Interview Simulator)*
-
-
+- 🥈 Ranked 7th in the Arab Region out of more than 290 competing teams (ArammTech) at <a href="https://salamhack.com/" target="_blank"> SalamHack 2025</a>, with the project Muqabalati — an AI-powered Arabic Job Interview Simulator designed to elevate candidate preparation through realistic, language-specific simulations.
+- 🥇 Awarded 1st Place Nationwide in the Marketing & E-Commerce Diploma Competition *(Yemen, 2024)*  
 
 ## 💻 Tech Stack
 
